@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&family=Open+Sans&family=Orbitron&display=swap');
+* {
+    padding: 0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+body {
+    background-color: bisque;
+    margin: 0 auto;
+}
+.main-con {
+    height: 500px;
+    width: 700px;
+    background-color: cadetblue;
+    margin: 45px auto;
+    padding: 40px 95px;
+    
+}
+#kelvin {
+    background-color: rgba(0, 0, 0, 0.726);
+    height: 95px;
+    
+}
+#celsius {
+    background-color: rgba(0, 0, 0, 0.726);
+    
+    height: 95px;
+
+}
+#fahrenheit {
+    background-color: rgba(0, 0, 0, 0.726);
+    height: 95px;
+   
+    
+}
+h2 {
+    padding-bottom: 5px;
+    padding-top: 25px;
+    text-align: left;
+}
+p {
+    text-align: left;
+}
+input[type=number] {
+    background-color: rgba(0, 0, 0, 0.726);
+    height: 100%;
+    width: 100%;
+    
+    text-align: center;
+    font-family: Orbitron;
+    font-size: 35px;
+    font-weight: bold;
+    color: wheat;
+
+}
+
